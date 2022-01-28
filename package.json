@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "react-redux": "^7.2.6"
+  }
+}
